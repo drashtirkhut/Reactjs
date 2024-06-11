@@ -1,0 +1,24 @@
+.input {
+    margin: 30px;
+    background: none;
+    border: none;
+    /* outline: none; */
+    max-width: 190px;
+    padding: 15px 25px;
+    font-size: 18px;
+    border-radius: 9999px;
+    box-shadow: inset 10px 8px 10px rgba(180,180,180,255);
+    color: rgb(19, 2, 2);
+  }
+
+  button {
+    color: #090909;
+    padding:16px 25px;
+    font-size: 18px;
+    border-radius: 50px;
+    background: #e8e8e8;
+    /* cursor: pointer; */
+    border: 1px solid #e8e8e8;
+    box-shadow: 6px 6px 12px #c5c5c5;
+  }
+  

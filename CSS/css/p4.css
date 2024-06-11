@@ -1,0 +1,68 @@
+.Shadow-1
+{
+    width:200px;
+    height: 200px;
+    border: 1px gray;
+    box-shadow: 0px 8px 5px gray;
+}
+
+.Shadow-2
+{
+    width:200px;
+    height: 200px;
+    border: 1px gray;
+    box-shadow: 0px 12px 12px gray  ;
+}
+
+.Shadow-3
+{
+    width:200px;
+    height: 200px;
+    border: 1px gray;
+    box-shadow: 0px 16px 25px gray;
+}
+
+.Shadow-4
+{
+    width:200px;
+    height: 200px;
+    border: 1px gray;
+    box-shadow: 0px 5px 15px gray;
+    
+}
+
+.Shadow-5
+{
+    width:200px;
+    height: 200px;
+    border: 1px gray;
+    box-shadow: 0px 5px 5px gray;
+    
+}
+
+.Shadow-6
+{
+    width:200px;
+    height: 200px;
+    border: 1px gray;
+    box-shadow: 0px 3px 15px gray;
+    
+}
+
+.Shadow-7
+{
+    width:200px;
+    height: 200px;
+    border: 1px gray;
+    box-shadow: 0px 2px 10px gray;
+    
+}
+
+.Shadow-8
+{
+    width:200px;
+    height: 200px;
+    border: 1px gray;
+    box-shadow: 0px 20px 10px gray;
+    
+}

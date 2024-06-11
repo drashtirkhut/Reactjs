@@ -1,0 +1,65 @@
+body{
+    background-color: aqua;
+  }
+  main
+  {
+    border: 2px red;
+    text-decoration: underline;
+  }
+  main
+  {
+    text-decoration: none;
+  }
+  p{
+    text-decoration: underline;
+  }
+  main  
+  {
+    text-decoration: none;
+  }
+  a {
+    text-decoration: none;
+    color: purple;
+  }
+  main section h2 
+  {
+    text-decoration: purple;
+  }
+  a{
+    text-decoration: none important;
+    color: purple;
+  }
+  p{
+    background-color: pink;
+  }
+  .container .cont section h2 
+  {
+    background-color: brown;
+    text-decoration:overline;
+  }
+  .std 
+  {
+    text-decoration: none;
+  }
+  #main1 h2{
+    text-decoration: none;
+  }
+  a{
+    text-decoration: none;
+  }
+  
+  .container section p
+  {
+    background-color: palegreen;
+  }
+  .container .V
+  {
+    background-color: PALEGREEN;
+  }
+  .container .R{
+    background-color: palegreen;
+   }
+   footer
+   {
+    background-color: brown;
+   }

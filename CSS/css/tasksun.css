@@ -1,0 +1,113 @@
+.maindiv{
+    height:100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.box{
+    height:100vh;
+    display: block;
+    position: fixed;
+    /* background-color:skyblue; */
+}
+ .hill{
+    width: 100vw;
+    margin-top:250px; 
+} 
+.c1 img{
+    height:200px;
+    position: absolute;
+    left:500px;
+    animation-name:cl1;
+    animation-duration:10s;
+    animation-iteration-count:infinite;
+    animation-timing-function:linear;
+    z-index:-25;
+} 
+.c2 img{
+    height:200px;
+    position: absolute;
+    left:300px;
+    top:50px;
+    animation-name:cl2;
+    animation-duration:10s;
+    animation-iteration-count:infinite;
+    animation-timing-function:linear;
+    z-index:-20;
+} 
+.c3 img{
+    height:200px;
+    position: absolute;
+    left:100px;
+    top:20px;
+    animation-name:cl3;
+    animation-duration:10s;
+    animation-iteration-count:infinite;
+    animation-timing-function:linear;
+    z-index:-20;
+} 
+
+.sun{
+    height:100px;
+    width:100px;
+    display: block;
+    position:absolute;
+    border-radius: 100%;
+    animation-name:sun1;
+    animation-duration:5s;
+    animation-iteration-count:5;
+    animation-delay:3s;
+    animation-timing-function:linear;
+    margin-left:500px;
+    z-index:-20;
+    /* animation:alternate-reverse; */
+}
+ @keyframes sun1 {
+    0%{
+        transform: translatey(0px);
+        background-color: yellow;
+    }
+     50%{
+        transform:translatey(400px);
+        background-color: rgb(187, 187, 6);
+    } 
+    100%{
+        transform:translatey(0px);
+        background-color: yellow;
+    }
+} 
+@keyframes cl1 {
+    0%{
+        transform: translatex(0px);
+    }
+    50%{
+        transform:translatex(-520px);
+    }
+    100%{
+        transform:translatex(0px);
+    }
+} 
+@keyframes cl2 {
+    0%{
+        transform: translatex(0px);
+    }
+    50%{
+        transform:translatex(520px);
+    }
+    100%{
+        transform:translatex(0px);
+    }
+} 
+@keyframes cl3 {
+    0%{
+        transform: translatex(0px);
+    }
+    50%{
+        transform:translatex(-520px);
+    }
+    100%{
+        transform:translatex(0px);
+    }
+}
+
+Himangi Sq😇😇, [2/7/2024 5:58 PM]

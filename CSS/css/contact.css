@@ -1,0 +1,42 @@
+.btn{
+    margin: 0;
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline;
+    background-color: lightblue;
+    border-radius: 20px;
+}
+
+.txt{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+}
+.txt1{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+.em{
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    left: 30%;
+}
+#select1{
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+}
+ .h4{
+    top:200%;
+    left: 40%;
+} 

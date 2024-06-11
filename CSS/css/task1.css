@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    align-items: center;
+} 
+
+.sq{
+    height: 250px;
+    width: 250px;
+    background-color: blue;
+    animation-name: stretch;
+    animation-duration: 1.5s; 
+    animation-timing-function: ease-in-out; 
+    animation-delay: 0;
+    animation-direction: alternate;
+    animation-play-state: running;
+    animation-iteration-count: infinite; 
+  }
+  
+  @keyframes stretch {
+    0% {
+      transform: scale(0.1);
+      background-color: red;
+      border-radius: 100%;
+    }
+    50% {
+      background-color: pink;
+    }
+    100% {
+      transform: scale(0.5);
+      background-color: blue;
+    }
+  }

@@ -1,0 +1,87 @@
+body{     
+
+     :where(.heading){
+        color:red;
+        background-color: yellow;
+    }
+    
+    :where(.head){
+        color:red;
+        background-color: yellow;
+    }
+    
+    :where(.h1){
+        color:red;
+        background-color: yellow;
+    }
+    
+    h1:nth-last-child(6){
+        color:red;
+        background-color: yellow;
+    }
+    
+    p:last-child{
+            color:red;
+            background-color: yellow;
+    }
+    
+    a:first-child{
+        color:red;
+        background-color: yellow;
+    }
+    a:nth-child(4){
+        color:red;
+        background-color: yellow;
+    }
+    h1:nth-child(6){
+        color:red;
+        background-color: yellow;
+    }
+    
+     h1:only-of-type{
+        color:red;
+        background-color: yellow;
+     }
+     input:only-of-type{
+        color:red;
+        background-color: yellow;  
+     }
+       
+      h1:nth-of-type(15){
+        color:red;
+        background-color: yellow;  
+    }
+     h1:nth-of-type(9){
+        color:red;
+        background-color: yellow;  
+        
+     }
+     section h1:last-of-type{
+        color: red;
+        background-color: yellow;
+    }
+    div:nth-of-type(2) h1:nth-child(2)                          {
+        color:red;
+        background-color: yellow;  
+    }
+    div:nth-of-type(2) h1:nth-child(7)                          {
+        color:red;
+        background-color: yellow;  
+    }
+     div div div h1:nth-child(4){
+        color: red;
+        background-color: yellow;
+    }
+    div:nth-last-child(2) h1:nth-child(1){
+        color: red;
+        background-color: yellow;
+    }
+    h1:nth-child(19){
+        color: red;
+        background-color: yellow;
+    }
+    h1:nth-last-of-type(14){
+        color: red;
+        background-color: yellow;
+    }
+}

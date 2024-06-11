@@ -1,0 +1,21 @@
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(66, 6, 168);
+    margin-left: 50px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.d1{
+    height: 80px;
+    width: 80px;
+    background-color: white;
+    margin-top: 50px;
+}
