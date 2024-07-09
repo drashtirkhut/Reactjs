@@ -1,7 +1,7 @@
 // javascript string oprators
 
-// let str1="hi,i am javascript";
-// let str2="hello,good afternoon";
+// let str1="Hi,i Am Javascript";
+// let str2="Hello,Good Afternoon";
 
 // let str3=str1+str2;
 
